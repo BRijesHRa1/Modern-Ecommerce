@@ -1,6 +1,11 @@
 # Modern E-commerce
 
 A responsive e-commerce website built with Next.js, React, and Tailwind CSS. This project showcases a modern online shopping experience with features like product browsing, filtering, cart management, and more.
+<img width="1470" alt="Screenshot 2025-04-16 at 12 39 47 PM" src="https://github.com/user-attachments/assets/b593cf71-73a1-4c18-8b3e-3273bb69a347" />
+<img width="1470" alt="Screenshot 2025-04-16 at 12 40 00 PM" src="https://github.com/user-attachments/assets/141c5660-3b7e-410f-b33f-5286d621bdf5" />
+
+
+
 
 ## Features
 
